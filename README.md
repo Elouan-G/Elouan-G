@@ -6,11 +6,11 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logic
 
 | 💡 Description | Pro/Perso | 🛠️ Outils |
 |:---|:---:|:---|
-| Logiciel de gestion de budget. | 💼 | En cours... |
+| Logiciel de gestion de budget. | 💼 | Python, PostgreSQL, JavaScript, HTML, CSS |
 | Logiciel de détection de zones inondables. | 💼 | C++, OpenMP, Docker |
 | Surcouche de l'ordonnanceur d'un cluster de calcul. | 💼 | C#, .NET, Microsoft HPC Pack |
 | Application de suivi du kilométrage d'un parc de véhicules électriques. | 💼 | Google (Apps Script, Sheets, Gmail) |
-| Je de pong en réseau [lien](https://github.com/Elouan-G/py-pong). | 🏠 | Python, pygame, websockets, asyncio |
+| Jeu de pong en réseau [lien](https://github.com/Elouan-G/py-pong). | 🏠 | Python, pygame, websockets, asyncio |
 | Outil de numérisation de livres à partir de photos. | 💼 | OCR, Google (Apps Script, Drive, Docs) |
 | Logiciel de création de graphes de compétences [lien](https://github.com/Elouan-G/skill-tree). | 🏠 | C++, SQLite, Graphviz |
 | Utilitaire de suivi et de mise à jour d'AD pour Windows Server. | 💼 | C#, .NET, Excel |
@@ -24,7 +24,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logic
 ## 🕸️ Mes Projets plus anciens
 | 📅 | 💡 Description | Pro/Perso/Études | Solo/Équipe | 🛠️ Outils |
 |:---:|:---|:---:|:---:|:---|
-| 2024 | Jeu de Kem's distribué [lien](https://github.com/LaurentMin/Kems_Distributed). | 🎓 | 👥 | Go, Shell, Web |
+| 2024 | Jeu de Kem's distribué [lien](https://github.com/LaurentMin/Kems_Distributed). | 🎓 | 👥 | Go, Shell, JavaScript, HTML, CSS |
 | 2024 | Parseur et interpréteur du langage Logo (tortue qui dessine) en Java. | 🎓 | 👥 | Java, Logo |
 | 2024 | Messagerie type messenger. | 🎓 | 👥 | Java, Spring, Thymeleaf |
 | 2024 | Site web de recrutement. | 🎓 | 👥 | JavaScript, Express.js |
@@ -33,7 +33,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logic
 | 2023 | Distribution Linux optimisée pour raspberry Pi. | 💼 | 👤 | Yocto Project |
 | 2023 | Bot Twitter. | 🏠 | 👤 | Python, Raspberry Pi, API Twitter, API LLM |
 | 2023 | Système de gestion d'une bibliothèque. | 🎓 | 👥 | Python, PostgreSQL |
-| 2022 | Solveur de labyrinthes Helltaker. | 🎓 | 👥 | Python, IA |
+| 2022 | Solveur de labyrinthes Helltaker. | 🎓 | 👥 | Python, IA, solveurs |
 | 2022 | Jeu de société Carcassonne. | 🎓 | 👥 | C++, Qt |
 
 ---
