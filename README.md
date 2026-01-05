@@ -37,4 +37,4 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logic
 | 2022 | Jeu de société Carcassonne. | 🎓 | 👥 | C++, Qt |
 
 ---
-*Dernière mise à jour : Décembre 2024*
+*Dernière mise à jour : Janvier 2026*
