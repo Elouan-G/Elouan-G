@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par le développement logic
 
 | 💡 Description | Pro/Perso | 🛠️ Outils |
 |:---|:---:|:---|
-| Logiciel de gestion de budget. | 💼 | Python, PostgreSQL, JavaScript, HTML, CSS |
+| Logiciel de gestion de budget. | 💼 | Django, PostgreSQL, Tailwind CSS |
 | Logiciel de détection de zones inondables. | 💼 | C++, OpenMP, Docker |
 | Surcouche de l'ordonnanceur d'un cluster de calcul. | 💼 | C#, .NET, Microsoft HPC Pack |
 | Application de suivi du kilométrage d'un parc de véhicules électriques. | 💼 | Google (Apps Script, Sheets, Gmail) |
